@@ -1,6 +1,6 @@
 body{
   align-text: center;
-  background: linear-gradient(45deg, Orange, lightGreen, skyBlue);
+  background: linear-gradient(137deg, lightGreen, lightGray, red);
 }
 h1{
 font-family: Neonderthaw, sans-serif;
@@ -37,6 +37,9 @@ transform: rotate(-30deg);
   margin: 400px auto 600px auto;
   width: 380px;
   }
+.PhotoText{
+  text-align: center;
+}
 .imgContainer{
   margin: 800px auto 0 auto;
 }
@@ -60,4 +63,9 @@ text-align: center;
   display: flex;
   flex-direction: column;
   align-text: center;
-}
+  }
+  p{
+    width: 40%;
+    margin: 0 auto 0 auto;
+    text-align: justify;
+    }
