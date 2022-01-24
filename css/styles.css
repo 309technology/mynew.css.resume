@@ -53,12 +53,7 @@ height: 150px;
   }
 
 .middle-container{
-  align-text: center;
-  width: 50%;
-}
-P{
-text-align: justify;
-  text-justify: inter-word;
+text-align: center;
 }
 
 .Skills{
