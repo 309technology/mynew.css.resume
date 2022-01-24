@@ -64,6 +64,10 @@ text-align: center;
   flex-direction: column;
   align-text: center;
   }
+.h3{
+width: 40%;
+    margin: 0 auto 0 auto;
+}
   p{
     width: 40%;
     margin: 0 auto 0 auto;
