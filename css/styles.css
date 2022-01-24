@@ -55,8 +55,10 @@ height: 150px;
 .middle-container{
 Align-text: center;
 Width: 50%;
+}
+P{
 text-align: justify;
-text-justify: inter-word;
+  text-justify: inter-word;
 }
 
 .Skills{
