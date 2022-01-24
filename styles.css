@@ -1,0 +1,63 @@
+body{
+  align-text: center;
+  background: linear-gradient(45deg, Orange, lightGreen, skyBlue);
+}
+h1{
+font-family: Neonderthaw, sans-serif;
+font-size: 3em;
+width: 300px;
+display: inline-block;
+position: absolute;
+top: 150px;
+text-align: center;
+color: #E67E22;
+transform: rotate(-30deg);
+}
+.mlt{
+  transform: rotate(-30deg);
+  color: #00cc99;
+  font-family: Rubik Beastly,sans-serif;
+  width: 300px;
+  margin: 75px 0 0 0;
+  display: inline-block;
+  position: absolute;
+  top: 180px;
+  text-align: center;
+}
+.labCoding{
+  filter: opacity(30%);
+    width: 400px;
+    height: 400px;
+    z-index: -2;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+  }
+.top{
+  margin: 400px auto 600px auto;
+  width: 380px;
+  }
+.imgContainer{
+  margin: 800px auto 0 auto;
+}
+img{
+width: 150px;
+height: 150px;
+}
+
+.T309{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  filter: blur(1px);
+  }
+
+.middle-container{
+text-align: center;
+}
+
+.Skills{
+  display: flex;
+  flex-direction: column;
+  align-text: center;
+}
