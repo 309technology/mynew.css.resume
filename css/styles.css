@@ -4,6 +4,7 @@ body{
 }
 h1{
 font-family: Neonderthaw, sans-serif;
+font-size: 3em;
 width: 300px;
 display: inline-block;
 position: absolute;
@@ -24,6 +25,7 @@ transform: rotate(-30deg);
   text-align: center;
 }
 .labCoding{
+  filter: opacity(30%);
     width: 400px;
     height: 400px;
     z-index: -2;
